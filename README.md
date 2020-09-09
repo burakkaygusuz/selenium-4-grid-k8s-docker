@@ -1,5 +1,7 @@
 # Selenium Automation Architecture
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fb4993ba87214bbaa6e43ad4a6a680e8)](https://app.codacy.com/manual/burakkaygusuz/selenium-automation-architecture?utm_source=github.com&utm_medium=referral&utm_content=burakkaygusuz/selenium-automation-architecture&utm_campaign=Badge_Grade_Dashboard)
+
 This demo that created as a template, demonstrates how to do the settings of the Chrome ve Firefox web driver for distributed parallel testing with Selenium 4 Grid using Kubernetes and Docker.
 
 
